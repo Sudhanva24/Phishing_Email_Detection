@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/618310494445782914/1c1531b7c9354a308129233d19144aa6/artifacts
+deleted_time: 1738682475502
+end_time: 1738681895006
+entry_point_name: ''
+experiment_id: '618310494445782914'
+lifecycle_stage: deleted
+run_id: 1c1531b7c9354a308129233d19144aa6
+run_name: Random_Forest
+run_uuid: 1c1531b7c9354a308129233d19144aa6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738681891771
+status: 3
+tags: []
+user_id: sudhanvasavyasachi

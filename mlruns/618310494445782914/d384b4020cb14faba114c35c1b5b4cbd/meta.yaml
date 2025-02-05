@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/618310494445782914/d384b4020cb14faba114c35c1b5b4cbd/artifacts
+end_time: 1738682013652
+entry_point_name: ''
+experiment_id: '618310494445782914'
+lifecycle_stage: active
+run_id: d384b4020cb14faba114c35c1b5b4cbd
+run_name: Naive_Bayes
+run_uuid: d384b4020cb14faba114c35c1b5b4cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738682011407
+status: 3
+tags: []
+user_id: sudhanvasavyasachi

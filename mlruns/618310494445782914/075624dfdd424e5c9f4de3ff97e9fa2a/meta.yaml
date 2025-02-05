@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/618310494445782914/075624dfdd424e5c9f4de3ff97e9fa2a/artifacts
+end_time: 1738683051305
+entry_point_name: ''
+experiment_id: '618310494445782914'
+lifecycle_stage: active
+run_id: 075624dfdd424e5c9f4de3ff97e9fa2a
+run_name: XG-boost
+run_uuid: 075624dfdd424e5c9f4de3ff97e9fa2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738683049124
+status: 3
+tags: []
+user_id: sudhanvasavyasachi
